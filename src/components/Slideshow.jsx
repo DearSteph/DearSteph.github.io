@@ -31,7 +31,7 @@ const slides = [
     text: "This journey has felt like one of the longest boss battles.\nThe challenges we’ve faced,\nThe obstacles we’ve surpassed,\nand it’s not even close to what we will accomplish.",
   },
   {
-    video: "/images/BurgessFalls.mp4",
+    video: "/images/IMG_0274.MOV",
     text: "There’s been so many memories, and every day that I spend in this life I can only hope we will have countless more.\nNearly 3.5 thousand days since we began this journey.\nJuly 20, 2026 will make 10 years.\nThank you for sharing a decade of your life with me.\nThank you for saving my life.\nI love you, Stephanie.",
   },
 ];
